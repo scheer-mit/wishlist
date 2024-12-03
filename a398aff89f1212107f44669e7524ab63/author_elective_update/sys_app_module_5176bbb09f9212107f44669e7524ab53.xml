@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Wish List">b2d9af349f5212107f44669e7524ab04</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>URLs</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_wishlist_url</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-03 22:52:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5176bbb09f9212107f44669e7524ab53</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>URLs</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="WishList" source="x_snc_wishlist">a398aff89f1212107f44669e7524ab63</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WishList">a398aff89f1212107f44669e7524ab63</sys_scope>
+        <sys_update_name>sys_app_module_5176bbb09f9212107f44669e7524ab53</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-03 22:52:21</sys_updated_on>
+        <timeline_page/>
+        <title>URLs</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="WishList">a398aff89f1212107f44669e7524ab63</application>
+        <file_path/>
+        <instance_id>35caff97c38e1a54d0265873e40131ba</instance_id>
+        <instance_name>nowlearning-nlinst02267509-0001</instance_name>
+        <name>sys_app_module_5176bbb09f9212107f44669e7524ab53</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Wish List">b2d9af349f5212107f44669e7524ab04</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>URLs</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_snc_wishlist_url</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-03 22:52:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5176bbb09f9212107f44669e7524ab53</sys_id><sys_mod_count>0</sys_mod_count><sys_name>URLs</sys_name><sys_overrides/><sys_package display_value="WishList" source="x_snc_wishlist">a398aff89f1212107f44669e7524ab63</sys_package><sys_policy/><sys_scope display_value="WishList">a398aff89f1212107f44669e7524ab63</sys_scope><sys_update_name>sys_app_module_5176bbb09f9212107f44669e7524ab53</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-03 22:52:21</sys_updated_on><timeline_page/><title>URLs</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>437715824</payload_hash>
+        <record_name>URLs</record_name>
+        <reverted_from/>
+        <source>912177b89f5212107f44669e7524ab0e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-03 22:52:21</sys_created_on>
+        <sys_id>5576bbb09f9212107f44669e7524ab55</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1938eb97f1e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-03 22:52:21</sys_updated_on>
+        <type>Module</type>
+        <update_guid>9976bbb0e592121072f7037278821754</update_guid>
+        <update_guid_history>9976bbb0e592121072f7037278821754:437715824</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="URLs">905c77789f9212107f44669e7524abb6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-03 23:17:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>6fe28ff93c6e489c8c3aae928a74a090</sys_id>
+        <sys_metadata>5176bbb09f9212107f44669e7524ab53</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>URLs</sys_name>
+        <sys_package display_value="WishList" source="x_snc_wishlist">a398aff89f1212107f44669e7524ab63</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="WishList">a398aff89f1212107f44669e7524ab63</sys_scope>
+        <sys_scope_delete display_value="">001d96cbd23e450c801fca442faa4481</sys_scope_delete>
+        <sys_update_name>sys_app_module_5176bbb09f9212107f44669e7524ab53</sys_update_name>
+        <sys_update_version display_value="sys_app_module_5176bbb09f9212107f44669e7524ab53">5576bbb09f9212107f44669e7524ab55</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-03 23:17:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
