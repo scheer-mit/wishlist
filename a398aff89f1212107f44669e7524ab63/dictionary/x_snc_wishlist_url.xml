@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1d76bbb09f9212107f44669e7524ab50" label="URL" max_length="40" name="x_snc_wishlist_url" type="collection"/>
+</database>
